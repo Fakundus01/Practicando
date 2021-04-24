@@ -1,2 +1,2 @@
-const hobbies=["Iaijutsu","Jugar","Ver series"]
+const hobbies=["Iaijutsu","Jugar","Programar","Ver series"]
 console.log(hobbies);
